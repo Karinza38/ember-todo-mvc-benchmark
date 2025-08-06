@@ -94,7 +94,7 @@
 	"dependencies": {
 		"ember-modifier": "^4.1.0",
 		"ember-primitives": "^0.10.1",
-		"ember-qunit-nice-errors": "^1.2.1",
+		"ember-qunit-nice-errors": "^2.0.0",
 		"ember-resources": "^6.4.2",
 		"ember-route-template": "^1.0.3",
 		"todomvc-app-css": "^2.4.3",
